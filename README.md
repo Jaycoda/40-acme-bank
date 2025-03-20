@@ -1,6 +1,4 @@
-# Project Name
-
-40 CodeCademy: Acme Bank
+# 40 CodeCademy: Acme Bank
 
 ## Description
 
@@ -21,5 +19,10 @@ This project is inspired by the YouTube channel [Channel Name](https://www.youtu
 
 ## Run the app
 
-Terminal command line: 'node app'
+Terminal command line:
+
+```bash
+node app
+```
+
 Open on: http://localhost:3000/
